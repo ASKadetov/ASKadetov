@@ -20,6 +20,6 @@ Skills:
     - Ответственность;
 
 ### 🙌🏻 Свяжись со мной
-- [Telegram](@AKadetov)
+- [Telegram](https://web.telegram.org/@AKadetov)
 - [Kaggle](https://www.kaggle.com/askadetov)
 
