@@ -19,7 +19,6 @@ Skills:
     - Коммуникабельность;
     - Ответственность;
 
-### 🙌🏻 Свяжись со мной
-- [Telegram](https://web.telegram.org/@AKadetov)
-- [Kaggle](https://www.kaggle.com/askadetov)
+### Telegram
+- @AKadetov
 
